@@ -6,7 +6,7 @@ import java.util.Deque;
 import java.util.LinkedList;
 
 public class Theseus {
-    private int turns = 0;
+    /*private int turns = 0;
     private MazePoint[][] maze;
     private Deque<Character> path = new LinkedList<>();
     private StringBuilder builder = new StringBuilder();
@@ -190,5 +190,5 @@ public class Theseus {
             }
             System.out.println();
         }
-    }
+    }*/
 }
