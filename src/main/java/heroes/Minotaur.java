@@ -5,7 +5,7 @@ import generator.MazePoint;
 import java.util.Random;
 
 public class Minotaur {
-    /*private int i;
+    private int i;
     private int j;
     private Random random = new Random();
     private boolean visited = false;
@@ -114,5 +114,5 @@ public class Minotaur {
             }
             System.out.println();
         }
-    }*/
+    }
 }
